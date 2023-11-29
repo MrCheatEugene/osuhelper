@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-user-bots": "^1.6.0",
+    "process-exists": "^5.0.0",
+    "ps-node": "^0.1.6"
+  }
+}
